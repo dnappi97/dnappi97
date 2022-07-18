@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dnappi97
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Cyber Security 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dnappi97@gmail.com
 
 <!---
